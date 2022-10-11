@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tmodoux/ether-twint/static/css/main.fd9991bf.css",
-    "main.js": "/tmodoux/ether-twint/static/js/main.7cf4309a.js",
+    "main.js": "/tmodoux/ether-twint/static/js/main.f30d6f0f.js",
     "static/media/brand-icons.svg": "/tmodoux/ether-twint/static/media/brand-icons.6729d29753e000c17489.svg",
     "static/media/icons.svg": "/tmodoux/ether-twint/static/media/icons.62d9dae4e0040e81c980.svg",
     "static/media/outline-icons.svg": "/tmodoux/ether-twint/static/media/outline-icons.9c4845b4b41ef40a22fa.svg",
@@ -20,10 +20,10 @@
     "static/media/outline-icons.woff2": "/tmodoux/ether-twint/static/media/outline-icons.687a4990ea22bb1a49d4.woff2",
     "index.html": "/tmodoux/ether-twint/index.html",
     "main.fd9991bf.css.map": "/tmodoux/ether-twint/static/css/main.fd9991bf.css.map",
-    "main.7cf4309a.js.map": "/tmodoux/ether-twint/static/js/main.7cf4309a.js.map"
+    "main.f30d6f0f.js.map": "/tmodoux/ether-twint/static/js/main.f30d6f0f.js.map"
   },
   "entrypoints": [
     "static/css/main.fd9991bf.css",
-    "static/js/main.7cf4309a.js"
+    "static/js/main.f30d6f0f.js"
   ]
 }
