@@ -35,7 +35,7 @@ const Home = () => {
                 labelPosition='right'
             />
             <Divider/>
-            {owner && amount && <QRCode value={`/${owner}/${amount}`}/>}
+            {owner && amount && <QRCode value={`https://tmodoux.github.io/ether-twint/#/pay/${owner}/${amount}`}/>}
             {!!errorMessage && <Message header="Oops!" error content={errorMessage}/>}
         </div>
     );
